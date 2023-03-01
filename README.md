@@ -1,4 +1,6 @@
 # Year-11-CS-Unit-7-Tutorial-Song
+# Name: Amanda
+# Partner: Alayna
 
 Your job is to create a class called Song.
 
